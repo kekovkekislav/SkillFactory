@@ -155,4 +155,4 @@ while True:
         print("Ничья")
         break
 
-
+#123
